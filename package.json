@@ -31,6 +31,6 @@
     "async": "~0.7.0"
   },
   "dependencies": {
-    "noble": "~1.0.0"
+    "noble": "git://github.com/rosek86/noble"
   }
 }
